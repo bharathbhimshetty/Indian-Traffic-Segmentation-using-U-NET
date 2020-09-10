@@ -1,6 +1,6 @@
 # Indian-Traffic-Segmentation-using-U-NET
 
-This project is intended for autonomous navigation of car and the images are segmented manually using OpenCV polygons coordinates and the the images are 1 channel y labels and we use U-Net Resnet-34 as base model, to predict the masks and we have 40 classes.
+The x label is 3 channel image and y labels have 40 classes segmented for each gray scale image.
 
 The dataset is partially based on https://idd.insaan.iiit.ac.in/
 
