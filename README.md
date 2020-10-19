@@ -1,5 +1,7 @@
 # Indian-Traffic-Segmentation-using-U-NET
 
+## The task is to segment an image into different categories based in the image and give them different colors (here grey scaling is used in different variations)  
+
 * The dataset is partially based on https://idd.insaan.iiit.ac.in/
 * The dataset we have used has around 4008 images of HD resolution (1080 * 1980)
 which are the pictures taken on various kinds of places mostly Traffic on roads in and around Hyderabad and Bengaluru.
