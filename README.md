@@ -17,3 +17,8 @@ which are the pictures taken on various kinds of places mostly Traffic on roads 
 * We ran for 30 epochs in all and the model was saved.
 * The predictions are better as the loss is around 0.26 and val iou score is around 61.5 and train iou score is around 68.5.
 * The model seems slightly overfit, but nonetheless the results are good as can viszualize.
+
+## Some sample images are shown below
+![alt text](https://github.com/bharathbhimshetty/Indian-Traffic-Segmentation-using-U-NET/blob/master/1.JPG?raw=true)
+
+![alt text](https://github.com/bharathbhimshetty/Indian-Traffic-Segmentation-using-U-NET/blob/master/2.JPG?raw=true)
